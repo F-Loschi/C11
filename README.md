@@ -20,4 +20,4 @@ Este repositório contém exercícios, avaliações e anotações desenvolvidos 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/nome-do-repo.git
+git clone https://github.com/F-Loschi/C11.git
